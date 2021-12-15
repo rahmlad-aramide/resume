@@ -160,6 +160,10 @@ a {
   justify-content: center;
   text-decoration: none;
 }
+.center{
+    display: flex;
+    justify-content: center;
+}
 @media (max-width: 991px) {
   .box {
     background: #fff;
